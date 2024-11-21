@@ -1,0 +1,1 @@
+var json_pointanjung_1 = {"type":"FeatureCollection","name":"pointanjung_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","gambar":"<img src=\"images/anjung.jpg\" />"},"geometry":{"type":"Point","coordinates":[101.125804864069764,4.589201494782075]}}]}
